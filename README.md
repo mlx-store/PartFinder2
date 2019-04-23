@@ -1,14 +1,19 @@
-# Export/Import Part Finder For Magento 2
+# Part Finder For Magento 2
 
-This is extension export/import data for Part Finder extension. You can create fast more through website. Also, It can help you move data from an website to an other website
+You can use extension to find part of car, moto, phone, printer... Our extension allow create multi level. 
+For example, if you sell car tire then you can create 3 level (Make, Model, Year) or 4 level (Make, Model, Year, Engine).
 
 ## Feature
-- Export/Import item's level.
-- Export/Import item assigned for product.
-- Allow csv extension from magento 1.x
+- Ability use multi level.
+- Support many type(Car, Moto, Phone...)
+- Easy manage item for level.
+- Ability multi-select item.
+- Loading only item assigned for product.
+- Export/Import with extension.
+- Optimized speed by ajax.
+- Saved value search for use in product list.
 - Flexible settings for advanced usage.
 - W3C XHTML 1.0 Transitional. W3C CSS Valid.
 - Fully compatible Chrome, IE7+, Firefox, Flock, Netscape, Safari, Opera
 
-
-https://www.mlx-store.com/magento2-extensions/export-import/export-import-part-finder-for-magento-2.html
+https://www.mlx-store.com/magento2-extensions/catalog/part-finder-make-model-year-for-magento-2.html
